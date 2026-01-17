@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 810">
-	<title>The titlepage for the Standard Ebooks edition of Shorts from Scenes from Private Life, by Honoré de Balzac. Translated by Clara Bell, Ellen Marriage, R. S. Scott, and Katharine Prescott Wormeley</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 790">
+	<title>The titlepage for the Standard Ebooks edition of Shorts from Scenes from Private Life, by Honoré de Balzac. Translated by Clara Bell and Ellen Marriage</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -27,10 +27,10 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">SHORTS FROM SCENES</text>
-	<text class="title" x="700" y="230">FROM PRIVATE LIFE</text>
-	<text class="author" x="700" y="390">HONORÉ DE BALZAC</text>
-	<text class="contributor-descriptor" x="700" y="580">translated by</text>
-	<text class="contributor" x="700" y="640">CLARA BELL AND</text>
-	<text class="contributor" x="700" y="700">ELLEN MARRIAGE</text>
+	<text class="title" x="700" y="130">SHORTS</text>
+	<text class="title" x="700" y="230">FROM SCENES</text>
+	<text class="title" x="700" y="330">FROM PRIVATE LIFE</text>
+	<text class="author" x="700" y="490">HONORÉ DE BALZAC</text>
+	<text class="contributor-descriptor" x="700" y="680">translated by</text>
+	<text class="contributor" x="700" y="740">CLARA BELL AND ELLEN MARRIAGE</text>
 </svg>
