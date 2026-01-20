@@ -104,7 +104,7 @@
 		<meta property="se:production-notes">
 		The PG transcriptions of the works in the Human Comedy are split between two editions and therefore two sets of translators. The edition edited by George Saintsbury is more highly regarded for the quality of its translation, so transcriptions were created for the stories in this collection that were not from that edition.
 		The order of the stories is from the La Comédie Humaine Wikipedia page (https://en.wikipedia.org/wiki/La_Comédie_humaine), which was confirmed to match the "canonical" version from La Plaide (https://www.la-pleiade.fr/Auteur/Honore-de-Balzac).</meta>
-		<meta property="se:word-count">330008</meta>
+		<meta property="se:word-count">328019</meta>
 		<meta property="se:reading-ease.flesch">66.78</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/honore-de-balzac_shorts-from-scenes-from-private-life_various-translators</meta>
 		<dc:creator id="author">Honoré de Balzac</dc:creator>
