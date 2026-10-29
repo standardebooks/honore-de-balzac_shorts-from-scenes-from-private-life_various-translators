@@ -117,6 +117,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="translator-1">Clara Bell</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Bell, Clara</meta>
+		<meta property="schema:alternateName" refines="#translator-1">Clara Courtenay Bell</meta>
 		<link href="https://en.wikipedia.org/wiki/Clara_Bell" refines="#translator-1" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no93013158.html" refines="#translator-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
@@ -141,8 +142,9 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Widger, David</meta>
-		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-4" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-4" rel="schema:url"/>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
 		<link href="https://www.brokenandsaved.com/" refines="#producer-1" rel="schema:url"/>
